@@ -16,6 +16,7 @@
 
                     {{ __('You are logged in!') }}
                     testing
+                    testing123
                 </div>
             </div>
         </div>
